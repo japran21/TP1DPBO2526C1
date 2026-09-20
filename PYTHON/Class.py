@@ -7,7 +7,6 @@ class Film:
         self._durasi = int(durasi)
         self._harga = int(harga)
 
-    # Getter & Setter
     def setId(self, id: str) -> None:
         self._id = id
 
@@ -44,7 +43,6 @@ class Film:
     def getHarga(self) -> int:
         return self._harga
 
-    # Method Tampilkan Data
     def tampilkanFilm(self) -> None:
         print(f"ID Film   : {self._id}")
         print(f"Judul     : {self._judul}")
