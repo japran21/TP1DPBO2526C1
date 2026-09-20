@@ -9,7 +9,6 @@ int main() {
     vector<Film> listFilm;
     int pilihan = 0;
 
-    // Data Awal (Dummy Data)
     listFilm.push_back(Film("F01", "Inception", "Sci-Fi", "Christopher Nolan", 148, 50000));
     listFilm.push_back(Film("F02", "Interstellar", "Sci-Fi", "Christopher Nolan", 169, 55000));
 
