@@ -9,4 +9,14 @@ Setelah itu, layar akan menampilkan menu pilihan angka 1 sampai 5 yang terus mun
 - Pilih 4 (Hapus Film): Sistem meminta kode ID film yang ingin dibuang. Begitu kodenya cocok, film tersebut langsung dihapus permanen dari daftar.
 - Pilih 5 (Keluar)
 
+Cpp
 <img width="360" height="647" alt="image" src="https://github.com/user-attachments/assets/7b114f04-1fa3-4303-99b5-6dad93a5f6f1" />
+<img width="328" height="405" alt="image" src="https://github.com/user-attachments/assets/fd77ad94-ae35-48db-9a71-81fb845cc281" />
+
+Java
+<img width="328" height="656" alt="image" src="https://github.com/user-attachments/assets/4b480c34-b893-4e39-9b77-0e2752be340a" />
+<img width="410" height="745" alt="image" src="https://github.com/user-attachments/assets/9e80a888-20e4-4dd1-8f9e-102de00bac89" />
+<img width="329" height="729" alt="image" src="https://github.com/user-attachments/assets/ce98b4ea-d1a9-4b19-8ef2-c6364ce5d99c" />
+
+
+
