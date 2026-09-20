@@ -25,5 +25,18 @@ Python
 <img width="279" height="441" alt="image" src="https://github.com/user-attachments/assets/583adff8-6993-4453-a1df-a0bb9cae1708" />
 
 
+PHP
+
+
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/04033a39-7d7f-4fdf-9346-956e19344f24" />
+
+
+
+
+<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/e072dbd2-9ab3-4002-ac02-8d7bc79174c5" />
+
+
+
+
 
 
