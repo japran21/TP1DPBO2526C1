@@ -9,11 +9,11 @@ private:
     string judul;
     string genre;
     string sutradara;
-    int durasi; // menit
-    int harga;  // rupiah
+    int durasi; 
+    int harga;  
 
 public:
-    // Constructor default
+
     Film() {
         this->id = "";
         this->judul = "";
@@ -23,7 +23,7 @@ public:
         this->harga = 0;
     }
 
-    // Constructor dengan parameter
+
     Film(string id, string judul, string genre, string sutradara, int durasi, int harga) {
         this->id = id;
         this->judul = judul;
@@ -33,7 +33,6 @@ public:
         this->harga = harga;
     }
 
-    // Getter & Setter
     void setId(string id) { this->id = id; }
     string getId() { return this->id; }
 
@@ -52,7 +51,6 @@ public:
     void setHarga(int harga) { this->harga = harga; }
     int getHarga() { return this->harga; }
 
-    // Method Tampilkan Data
     void tampilkanFilm() {
         cout << "ID Film   : " << id << endl;
         cout << "Judul     : " << judul << endl;
@@ -63,5 +61,4 @@ public:
         cout << "--------------------------------" << endl;
     }
 
-    ~Film() {}
 };
