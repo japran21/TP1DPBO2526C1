@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int pilihan = 0;
 
-        // Data Awal (Dummy Data)
+ 
         listFilm.add(new Film("F01", "Inception", "Sci-Fi", "Christopher Nolan", 148, 50000));
         listFilm.add(new Film("F02", "Interstellar", "Sci-Fi", "Christopher Nolan", 169, 55000));
 
