@@ -3,7 +3,7 @@ from Class import Film
 def main():
     listFilm = []
 
-    # Data Awal (Dummy Data)
+
     listFilm.append(Film("F01", "Inception", "Sci-Fi", "Christopher Nolan", 148, 50000))
     listFilm.append(Film("F02", "Interstellar", "Sci-Fi", "Christopher Nolan", 169, 55000))
 
@@ -103,5 +103,4 @@ def main():
 
     print("\nTerima kasih telah menggunakan sistem Data Film Bioskop!")
 
-if __name__ == "__main__":
     main()
